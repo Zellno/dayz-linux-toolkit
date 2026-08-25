@@ -41,6 +41,16 @@ new directory with `cd dayz-linux-toolkit`, and execute `./install.sh`.
 
 The installer creates the command `~/.local/bin/dayz-join`.
 
+## Official Steam Workshop collection
+
+Subscribe to all required mods through the official collection and wait for
+Steam to finish downloading them:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3790094607
+
+The collection references the original Workshop publications. It does not
+repack, reupload, modify, or redistribute third-party mods.
+
 ## Join the Zellno server
 
 Run:
