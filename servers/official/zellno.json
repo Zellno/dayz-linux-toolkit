@@ -1,0 +1,132 @@
+{
+    "name": "Zellno DayZ Server | Full PvE",
+    "address": "89.43.106.164",
+    "port": 20400,
+    "query_port": 20410,
+    "map": "chernarusplus",
+    "battlemetrics_id": 40889989,
+    "player_name": "Zellno",
+    "password": "",
+    "mods": [
+        [
+            "1559212036",
+            "Community Framework"
+        ],
+        [
+            "1772776141",
+            "PvZmoD Spawn System"
+        ],
+        [
+            "3702420204",
+            "ZenModCore"
+        ],
+        [
+            "3728953203",
+            "TerritoryPlusFixed"
+        ],
+        [
+            "3483440991",
+            "ZensMapEnhancement"
+        ],
+        [
+            "2545327648",
+            "Dabs Framework"
+        ],
+        [
+            "3556131153",
+            "RaG Core"
+        ],
+        [
+            "3117613872",
+            "RaG Hunting Cabin"
+        ],
+        [
+            "3157695626",
+            "RaG BaseBuilding"
+        ],
+        [
+            "2878980498",
+            "RaG BaseItems"
+        ],
+        [
+            "2276010135",
+            "DayZ Editor Loader"
+        ],
+        [
+            "1828439124",
+            "VPPAdminTools"
+        ],
+        [
+            "2458896948",
+            "TraderPlus"
+        ],
+        [
+            "3720965383",
+            "Ironhorde TraderPlus Car Deploy Fix 1.29"
+        ],
+        [
+            "3443311258",
+            "CarPack"
+        ],
+        [
+            "2381686295",
+            "MiniMap"
+        ],
+        [
+            "2820370970",
+            "Paragon Gear and Armor"
+        ],
+        [
+            "3047952845",
+            "Paragon Arsenal"
+        ],
+        [
+            "3457276679",
+            "Auto Run Unlimited Stamina"
+        ],
+        [
+            "3732124879",
+            "IronhordeGPSCompass"
+        ],
+        [
+            "2017605880",
+            "zSpawnSelection"
+        ],
+        [
+            "2831742849",
+            "PVEZ Reloaded"
+        ],
+        [
+            "2443122116",
+            "SNAFU Weapons"
+        ],
+        [
+            "3498006019",
+            "Zenarchist's Fire Sticks"
+        ],
+        [
+            "3767320261",
+            "Zellno Safezone Campfire"
+        ],
+        [
+            "3774163631",
+            "Zellno Prison Bear"
+        ],
+        [
+            "3774607383",
+            "Zellno Ear Protection"
+        ],
+        [
+            "3774788913",
+            "Zellno PVE Vehicle Protection"
+        ],
+        [
+            "3783413518",
+            "Zellno Loading Screen"
+        ],
+        [
+            "3788399361",
+            "Zellno Cosmetic Collection"
+        ]
+    ]
+}

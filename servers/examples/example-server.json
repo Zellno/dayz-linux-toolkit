@@ -1,0 +1,15 @@
+{
+    "name": "Example DayZ Server",
+    "address": "203.0.113.10",
+    "port": 2302,
+    "query_port": 27016,
+    "map": "chernarusplus",
+    "player_name": "Survivor",
+    "password": "",
+    "mods": [
+        [
+            "1559212036",
+            "Community Framework"
+        ]
+    ]
+}
